@@ -1,1 +1,1 @@
-This is the description of my repo. Now working on branching, making changes and resolving merge conflicts. Modification in the main branch. Another modification in the main branch again.
+This is the description of my repo. Now working on branching, making changes and resolving merge conflicts. Modification in the main branch. Another modification in the main branch again. Modification in the main branch. 
